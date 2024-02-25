@@ -1,0 +1,3 @@
+Szállítási költség: 10.0$
+Üzleti költség: 20.0$
+Javítási költség: 30.0$
